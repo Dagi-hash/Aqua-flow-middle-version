@@ -1,0 +1,7 @@
+{
+  "appId": "com.aquaflow.app",
+  "appName": "AquaFlow",
+  "webDir": "www",
+  "backgroundColor": "#1e1f22",
+  "android": { "backgroundColor": "#1e1f22" }
+}
